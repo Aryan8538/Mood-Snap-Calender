@@ -6,5 +6,45 @@
     "filename": "selfie_2025-09-05.jpg",
     "mood_note": "yhe toh chutiya hai",
     "mood_color": "#4169E1"
+  },
+  "2025-11-06": {
+    "emotion": "happy",
+    "confidence": 0.5566102862358093,
+    "timestamp": "2025-11-06T13:49:41.792477",
+    "filename": "selfie_2025-11-06.jpg",
+    "mood_note": "",
+    "mood_color": "#FFD700"
+  },
+  "2025-11-11": {
+    "emotion": "happy",
+    "confidence": 0.9972842931747437,
+    "timestamp": "2025-11-11T10:18:04.499439",
+    "filename": "selfie_2025-11-11.jpg",
+    "mood_note": "",
+    "mood_color": "#FFD700"
+  },
+  "2025-11-16": {
+    "emotion": "neutral",
+    "confidence": 0.3088265657424927,
+    "timestamp": "2025-11-16T19:23:45.004270",
+    "filename": "selfie_2025-11-16.jpg",
+    "mood_note": "",
+    "mood_color": "#808080"
+  },
+  "2025-12-01": {
+    "emotion": "happy",
+    "confidence": 0.7924204468727112,
+    "timestamp": "2025-12-01T10:47:30.920883",
+    "filename": "selfie_2025-12-01.jpg",
+    "mood_note": "",
+    "mood_color": "#FFD700"
+  },
+  "2025-12-04": {
+    "emotion": "sad",
+    "confidence": 0.3117043673992157,
+    "timestamp": "2025-12-04T15:49:41.431424",
+    "filename": "selfie_2025-12-04.jpg",
+    "mood_note": "",
+    "mood_color": "#4169E1"
   }
 }
